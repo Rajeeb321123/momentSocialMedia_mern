@@ -1,0 +1,2 @@
+redux and toolkit  information
+keepin data, state, component separate is good idea 

@@ -1,0 +1,18 @@
+FRONT_END
+----------
+React 
+-Formik: for form handling
+- yup: form validation
+-Redux toolkit for state managment
+-Redux Presistence for store is selective state in local storage: local state: if we close the browser and re open the browser state is still there in broweser
+-react drop zone: for image and file  upload and so we can sent it to backend easily
+-material UI: sub packages are: emotion/react, emotion/styled, mui/icons-material
+
+
+BACK_END
+---------
+-Node js : for our Runtime
+-Express js: for our backend framework
+-mongoose: managing our database
+-JSWT:json web token for authentication
+-Multer: file Upload
